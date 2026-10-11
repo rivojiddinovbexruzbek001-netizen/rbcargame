@@ -1,0 +1,6 @@
+{
+  "name": "UZBEK AUTO DRIVE",
+  "description": "O‘zbekiston avtomobillari 3D simulyatori — Gentra, Cobalt, Damas, Nexia, Malibu bilan erkin haydash, drift, poyga va tyuning.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
